@@ -1,0 +1,23 @@
+{
+  "authors": [
+    "autark"
+  ],
+  "contributors": [
+    "kytrinyx",
+    "m-dango",
+    "rfilipo",
+    "sshine"
+  ],
+  "files": {
+    "solution": [
+      "lib/CustomSet.pm"
+    ],
+    "test": [
+      "t/custom-set.t"
+    ],
+    "example": [
+      ".meta/solutions/lib/CustomSet.pm"
+    ]
+  },
+  "blurb": "Create a custom set type."
+}
